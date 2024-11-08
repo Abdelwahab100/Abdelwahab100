@@ -19,7 +19,7 @@ Here’s a bit about me:
 - **Contribute to AI Research:** Publish impactful research papers and drive innovation in the field of neural networks.
 ## 🌱 I’m currently learning:
 - Quantum neural networks, advanced machine learning algorithms, and entrepreneurship skills to build my own AI-driven company in the near future.
-## 👯 I’m looking to collaborate on:
+## 🌐 I’m looking to collaborate on:
 - AI and data science projects, especially those focused on deep learning, computer vision, and innovative neural network applications.
 ## 🤔 I’m looking for help with:
 - Best practices in AI research and scaling projects for real-world applications.

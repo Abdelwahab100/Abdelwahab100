@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 Welcome to my GitHub profile! I’m Abdelwahab, a Data Science student and AI enthusiast, exploring the depths of artificial intelligence and neural networks. 
 Here’s a bit about me:
 
